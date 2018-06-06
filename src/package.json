@@ -1,6 +1,7 @@
 {
   "title": "Material demo",
-  "description": "https://github.com/mui-org/material-ui/tree/master/docs/src/pages/demos/cards/SimpleMediaCard.js",
+  "description":
+    "https://github.com/mui-org/material-ui/tree/master/docs/src/pages/demos/cards/SimpleMediaCard.js",
   "dependencies": {
     "react-dom": "latest",
     "react": "latest",

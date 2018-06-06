@@ -1,8 +1,13 @@
 {
   "name": "material-demo",
-  "description": "https://github.com/mui-org/material-ui/tree/master/docs/src/pages/demos/cards/SimpleMediaCard.js",
+  "description":
+    "https://github.com/mui-org/material-ui/tree/master/docs/src/pages/demos/cards/SimpleMediaCard.js",
   "version": "0.0.2",
-  "dependencies": {},
+  "dependencies": {
+    "@material-ui/core": "1.2.0",
+    "react": "16.4.0",
+    "react-dom": "16.4.0"
+  },
   "devDependencies": {
     "react-scripts": "1.0.0"
   },
